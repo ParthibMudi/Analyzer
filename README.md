@@ -7,7 +7,7 @@ Here’s a professional **README.md** file for your **Website Design Analyzer** 
 # **🌐 Website Design Analyzer**  
 **AI-Powered Design Feedback & Code Generation Tool**  
 
-# ** Demo Screenshot **
+# Demo Screenshot
 ![Screenshot 2025-04-20 060202](https://github.com/user-attachments/assets/b28a182d-3564-4f3c-b07b-efa99a51c845)
 ![Screenshot 2025-04-20 060238](https://github.com/user-attachments/assets/a26a41ba-72ed-4cb5-8cf2-c6ffd1497b04)
 ![Screenshot 2025-04-20 060304](https://github.com/user-attachments/assets/a90e8a51-167b-41eb-a242-6a8e8bbf4938)
